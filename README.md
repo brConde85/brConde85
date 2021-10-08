@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruno Luiz Panho Marciano
-- 👀 I’m interested in Systems for web, anime's and games.
+- 👀 I’m interested in Systems for web, animes and games.
 - 🌱 I’m currently learning React, Java, Spring, Entity Framework  and more =D...
 - 💞️ I’m looking to collaborate on JN Rastreamento Eireli.
 - 📫 About me I worked a period in the food sector, but I always had a passion for computers. 
