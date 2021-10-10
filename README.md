@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bruno Luiz Panho Marciano
 - 👀 I’m interested in Systems for web, animes and games.
 - 🌱 I’m currently learning React, Java, Spring, Entity Framework  and more =D...
-- 💞️ I’m looking to collaborate on Hop Digital.
+- 💞️ I’m collaborate on Hop Digital.
 - 📫 About me I worked a period in the food sector, but I always had a passion for computers. 
      Area that until then requires some activities as a hobby.I had an opportunity to take a course 
      to develop myself in the area, today I live and breathe programming. 
