@@ -5,8 +5,7 @@
      Area that until then requires some activities as a hobby.I had an opportunity to take a course 
      to develop myself in the area, today I live and breathe programming. 
      I am passionate about the area and I am always in search of new knowledge.
-     I'm looking for new challenges as a FullStack developer. I work as a developer in the vehicle tracking area 
-     and would like to acquire a broader knowledge for my career...
+     I'm looking for new challenges as a FullStack developer. I work as a developer in the Software Engineer and I'm studying machine learning area and would like to acquire a broader knowledge for my career...
 
 <!---
 brConde85/brConde85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
